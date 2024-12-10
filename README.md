@@ -71,13 +71,6 @@
 
 ---
 
-## 🛠️ Dynamic Animations  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AyushLuvani/AyushLuvani/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
----
-
 ## 💡 Fun Fact  
 🌌 When I'm not coding, I love exploring **tech innovations** and brainstorming the next big thing!
 
