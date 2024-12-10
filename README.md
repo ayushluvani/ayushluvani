@@ -1,27 +1,88 @@
-# 💫 About Me:
-👋 Hi, I’m **Ayush Luvani**  
-🎯 Passionate Flutter Developer
-🌱 Currently exploring **[e.g., Node.js, Firebase]**  
-📫 Reach me at **freelancer.ayush1463@gmail.com**  
+<h1 align="center">👨‍💻 Hey, I'm <a href="https://linkedin.com/in/ayushluvani" target="_blank">Ayush Luvani</a> 🚀</h1>
+<h3 align="center">Building the Future with Flutter and Tech 🌟</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushluvani)  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&pause=1000&color=03C9A9&center=true&vCenter=true&width=500&height=50&lines=🎯+Coding+with+Passion;🌱+Always+Learning+Something+New;🚀+Open+to+Exciting+Challenges" alt="Typing Animation" />
+</div>
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)  
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)  
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushLuvani&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="AyushLuvani" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AyushLuvani&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="AyushLuvani" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushLuvani&theme=dracula&hide_border=false" alt="AyushLuvani" /></p>
+## 🎨 About Me  
+- 🔭 I specialize in **Flutter Development**, creating smooth and elegant mobile experiences.  
+- 🌱 Currently diving deeper into **Node.js** and **Firebase** for backend mastery.  
+- 🤝 I’m open to collaborating on **innovative projects** and exploring cutting-edge ideas.  
 
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=AyushLuvani&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+📬 Let’s connect: **freelancer.ayush1463@gmail.com**
 
-[![](https://visitcount.itsvg.in/api?id=AyushLuvani&icon=0&color=6)](https://visitcount.itsvg.in)
+---
 
+## 🌐 Connect with Me  
+<p align="center">
+  <a href="https://linkedin.com/in/ayushluvani" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/AyushLuvani" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+## 💻 My Toolbox  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,nodejs,html,css,php" alt="Tech Stack" />
+</p>
+
+---
+
+## 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyushLuvani&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushLuvani&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushLuvani&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="50%"/>
+</p>
+
+---
+
+## 🏆 Achievements  
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AyushLuvani&theme=radical&margin-w=15&no-frame=true" alt="Trophies" width="80%"/>
+</div>
+
+---
+
+## 🌟 Fun Stats & Insights  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushLuvani&bg_color=1a1b27&color=38bdae&line=ff7b72&point=f5d3d3&hide_border=true" alt="Contribution Graph" width="90%"/>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=AyushLuvani.visitor-badge" alt="Visitors" />
+  <img src="https://img.shields.io/github/followers/AyushLuvani?style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/AyushLuvani?style=social" alt="GitHub Stars" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=default&layout=default" alt="Inspirational Quote" />
+</p>
+
+---
+
+## 🛠️ Dynamic Animations  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AyushLuvani/AyushLuvani/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+## 💡 Fun Fact  
+🌌 When I'm not coding, I love exploring **tech innovations** and brainstorming the next big thing!
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=22&pause=1000&color=03C9A9&center=true&vCenter=true&width=500&height=50&lines=🚀+Innovation+Through+Code;💡+Creating+Impactful+Solutions;🌟+Always+Ready+for+New+Challenges" alt="Closing Animation" />
+</p>
